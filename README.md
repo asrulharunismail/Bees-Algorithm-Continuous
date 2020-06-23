@@ -1,2 +1,3 @@
 # Bees-Algorithm-Continues
-The continues version of Bees Algorithm
+The continuous version of Bees Algorithm; Bee Algorithm; Bee Colony Algorithm.
+Sphere Function.
